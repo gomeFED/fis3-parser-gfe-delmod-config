@@ -1,0 +1,22 @@
+{
+    "name": "fis3-parser-gfe-delmod-config",
+    "version": "1.0.0",
+    "description": "删除页面中模块的config",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gomeFED/fis3-parser-gfe-delmod-config.git"
+    },
+    "keywords": [
+        "gfe",
+        "fis3",
+        "smarty"
+    ],
+    "author": "gomeFED",
+    "dependencies": {},
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gomeFED/fis3-parser-gfe-delmod-config/issues"
+    },
+    "homepage": "https://github.com/gomeFED/fis3-parser-gfe-delmod-config#readme"
+}
