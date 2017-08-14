@@ -3,7 +3,6 @@ var requireConfigExp = /require\.config\((\{[\s\S]*?\})\);?/img;
 //sea Config 正则表达式
 var seaConfigExp = /seajs\.config\((\{[\s\S]*?\})\);?/img;
 /**
- * 解析freemarker模板
  * @param  {string} content     文件内容
  * @param  {File}   file        fis 的 File 对象 [fis3/lib/file.js]
  * @param  {object} settings    插件配置属性
